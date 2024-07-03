@@ -1,5 +1,7 @@
 # The Meow the Merrier: Enriching Big Data by Using Feature Extraction and Unsupervised Learning
 
+![Project Banner](BDCC_Compilation/Banner.jpg)
+
 ## Authors
 Kyle Uy, Jason Catacutan, Joshua San Juan, Lorenzo de la Paz
 
